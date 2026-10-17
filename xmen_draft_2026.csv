@@ -1,0 +1,177 @@
+﻿pick,player,nba_team,positions,salary,fantasy_team
+1,Nikola Jokić,DEN,C,111,Eclair
+2,Victor Wembanyama,SAS,C,103,歐買嘎
+3,Luka Dončić,LAL,"PG,SG",90,Xians
+4,Shai Gilgeous-Alexander,OKC,PG,81,山姆歷險記
+5,Karl-Anthony Towns,NYK,"PF,C",58,HBT X
+6,Cade Cunningham,DET,"PG,SG",73,HAHAHA
+7,Giannis Antetokounmpo,MIA,"PF,C",79,一個人兩點十分
+8,Cooper Flagg,DAL,"SG,SF,PF",78,Dolphin
+9,Jayson Tatum,BOS,"SF,PF",69,HAHAHA
+10,Jalen Johnson,ATL,"SF,PF",70,HHH
+11,Anthony Edwards,MIN,"PG,SG",70,居蛇十塊
+12,Trae Young,WAS,PG,42,阿Ben觀察員
+13,Scottie Barnes,TOR,"SF,PF,C",68,Koenigsegg Trevita
+14,Josh Giddey,CHI,"PG,SG",45,Xians
+15,Tyrese Maxey,PHI,PG,63,HBT X
+16,Tyrese Haliburton,IND,"PG,SG",61,阿Ben觀察員
+17,Bam Adebayo,MIA,"PF,C",38,Wonder Green
+18,Kevin Durant,HOU,"SG,SF,PF",50,Beastars
+19,Amen Thompson,HOU,"PG,SG",43,Koenigsegg Trevita
+20,Donovan Mitchell,CLE,"PG,SG",50,Ginseng
+21,Kawhi Leonard,TOR,"SG,SF,PF",35,那也是沒辦法
+22,Stephen Curry,GSW,PG,40,Beastars
+23,Kon Knueppel,CHA,"SG,SF",25,居蛇十塊
+24,Austin Reaves,LAL,"PG,SG,SF",39,山姆歷險記
+25,LaMelo Ball,MIN,PG,40,Xians
+26,Devin Booker,PHX,"PG,SG",41,山姆歷險記
+27,Kyrie Irving,DAL,PG,22,居蛇十塊
+28,Walker Kessler,LAL,C,30,那也是沒辦法
+29,Anthony Davis,WAS,"PF,C",31,Dolphin
+30,Alperen Şengün,HOU,"PF,C",45,Wonder Green
+31,Matas Buzelis,CHI,"SF,PF",25,Dolphin
+32,Jalen Brunson,NYK,PG,38,阿Ben觀察員
+33,Jamal Murray,DEN,PG,37,Ginseng
+34,Evan Mobley,CLE,"PF,C",34,HHH
+35,Lauri Markkanen,UTA,"SF,PF",31,Beastars
+36,Deni Avdija,POR,"SG,SF,PF",28,Eclair
+37,LeBron James,PHI,"SF,PF",22,Beastars
+38,Brandon Miller,CHA,"SF,PF",34,HBT X
+39,Donovan Clingan,POR,C,28,HHH
+40,Jaren Jackson Jr.,UTA,"PF,C",34,那也是沒辦法
+41,Jaylen Brown,PHI,"SG,SF,PF",28,一個人兩點十分
+42,Trey Murphy III,NOP,"SG,SF",40,歐買嘎
+43,Chet Holmgren,OKC,"PF,C",40,Ginseng
+44,Naz Reid,CHA,"PF,C",23,居蛇十塊
+45,Joel Embiid,PHI,C,15,那也是沒辦法
+46,Onyeka Okongwu,ATL,C,20,一個人兩點十分
+47,Domantas Sabonis,SAC,"PF,C",28,歐買嘎
+48,Derrick White,BOS,"PG,SG",25,那也是沒辦法
+49,Jalen Duren,DET,C,27,HAHAHA
+50,James Harden,CLE,"PG,SG",28,阿Ben觀察員
+51,Jalen Williams,OKC,"SF,PF",27,那也是沒辦法
+52,Pascal Siakam,IND,"PF,C",21,Beastars
+53,Paul George,BOS,"SF,PF",12,山姆歷險記
+54,Immanuel Quickley,TOR,"PG,SG",11,Xians
+55,Jabari Smith Jr.,HOU,"PF,C",10,HBT X
+56,Nickeil Alexander-Walker,ATL,"PG,SG",21,Ginseng
+57,Dejounte Murray,NOP,PG,21,歐買嘎
+58,Cameron Boozer,MEM,PF,28,Eclair
+59,Keyonte George,UTA,"PG,SG",20,那也是沒辦法
+60,OG Anunoby,NYK,"SF,PF",18,Ginseng
+61,Ivica Zubac,IND,C,21,Koenigsegg Trevita
+62,Darius Garland,LAC,PG,29,一個人兩點十分
+63,Desmond Bane,ORL,"SG,SF",22,Ginseng
+64,VJ Edgecombe,PHI,"PG,SG",14,Wonder Green
+65,Paolo Banchero,ORL,PF,21,一個人兩點十分
+66,Damian Lillard,POR,PG,13,一個人兩點十分
+67,Franz Wagner,ORL,"SF,PF",24,Wonder Green
+68,Julius Randle,BKN,PF,14,HAHAHA
+69,Ausar Thompson,DET,"SG,SF,PF",11,HHH
+70,Reed Sheppard,HOU,"PG,SG",5,山姆歷險記
+71,Yves Missi,NOP,C,3,山姆歷險記
+72,Alex Sarr,WAS,C,13,Beastars
+73,Ryan Rollins,MIL,"PG,SG",20,居蛇十塊
+74,Dyson Daniels,ATL,"SG,SF",22,Koenigsegg Trevita
+75,Michael Porter Jr.,BKN,"SF,PF",17,阿Ben觀察員
+76,Brandon Ingram,LAC,"SG,SF,PF",4,Wonder Green
+77,Rudy Gobert,MIN,C,11,居蛇十塊
+78,Jaden McDaniels,MIN,SF,16,HHH
+79,Kel'el Ware,MIL,C,19,Wonder Green
+80,Stephon Castle,SAS,"PG,SG",19,Koenigsegg Trevita
+81,Mikal Bridges,NYK,"SF,PF",20,HBT X
+82,Tyler Herro,MIL,"PG,SG",14,居蛇十塊
+83,De'Aaron Fox,SAS,PG,18,HHH
+84,Jimmy Butler III,GSW,"SF,PF",2,Dolphin
+85,Ja Morant,POR,PG,9,Wonder Green
+86,Jalen Green,PHX,"SG,SF",3,Eclair
+87,John Collins,DET,"PF,C",8,山姆歷險記
+88,Zion Williamson,NOP,"PF,C",9,居蛇十塊
+89,Zach Edey,MEM,C,14,Koenigsegg Trevita
+90,Caleb Wilson,CHI,PF,9,Dolphin
+91,Payton Pritchard,BOS,PG,11,Dolphin
+92,Jarrett Allen,CLE,C,8,Wonder Green
+93,Jalen Suggs,ORL,"PG,SG",5,HHH
+94,Norman Powell,CHI,"SG,SF",7,Beastars
+95,Cedric Coward,MEM,"SG,SF",6,一個人兩點十分
+96,Moussa Diabaté,CHA,C,1,HHH
+97,AJ Dybantsa,WAS,SF,8,Dolphin
+98,Josh Hart,NYK,"SG,SF",7,HHH
+99,Dylan Harper,SAS,"PG,SG",19,Eclair
+100,Derik Queen,NOP,"PF,C",5,Xians
+101,Mark Williams,PHX,C,1,Wonder Green
+102,Ty Jerome,MEM,"PG,SG",9,Dolphin
+103,Miles Bridges,PHX,PF,4,Ginseng
+104,Coby White,CHA,"PG,SG",1,HAHAHA
+105,Neemias Queta,BOS,C,4,HHH
+106,CJ McCollum,ATL,"PG,SG",4,那也是沒辦法
+107,Day'Ron Sharpe,BKN,C,9,阿Ben觀察員
+108,Collin Murray-Boyles,TOR,"PF,C",7,山姆歷險記
+109,Dillon Brooks,PHX,"SF,PF",2,山姆歷險記
+110,Keegan Murray,SAC,"SF,PF",5,HBT X
+111,Cason Wallace,OKC,"PG,SG,SF",7,Dolphin
+112,Isaiah Hartenstein,OKC,C,5,HHH
+113,Zach LaVine,SAC,"PG,SG,SF",5,Wonder Green
+114,DeMar DeRozan,DEN,"SF,PF",4,Beastars
+115,Khaman Maluach,PHX,C,9,Dolphin
+116,Darryn Peterson,UTA,SG,7,Beastars
+117,Yaxel Lendeborg,GSW,PF,13,Wonder Green
+118,Andrew Wiggins,MIA,"SG,SF,PF",3,HBT X
+119,Darius Acuff Jr.,SAC,PG,11,Dolphin
+120,Rui Hachimura,LAC,"SF,PF",2,Xians
+121,Herbert Jones,NOP,"SG,SF",1,歐買嘎
+122,Kristaps Porziņģis,GSW,C,1,Xians
+123,Jaime Jaquez Jr.,MIL,"SG,SF,PF",4,居蛇十塊
+124,Nic Claxton,CHI,C,2,那也是沒辦法
+125,Brandin Podziemski,GSW,"PG,SG",2,Xians
+126,Davion Mitchell,MIA,PG,10,HAHAHA
+127,Jonathan Kuminga,MIN,"SF,PF",1,Koenigsegg Trevita
+128,Toumani Camara,POR,"SF,PF",2,Xians
+129,Anthony Black,ORL,"PG,SG,SF",2,Beastars
+130,Ajay Mitchell,OKC,"PG,SG",2,HAHAHA
+131,Myles Turner,MIL,C,6,那也是沒辦法
+132,Jakob Poeltl,TOR,C,3,Ginseng
+133,Wendell Carter Jr.,ORL,C,2,HBT X
+134,Fred VanVleet,HOU,PG,2,歐買嘎
+135,Sandro Mamukelashvili,LAL,"PF,C",3,Eclair
+136,Jrue Holiday,POR,"PG,SG",1,山姆歷險記
+137,Quentin Grimes,LAL,"SG,SF",2,HBT X
+138,Aaron Gordon,DEN,"PF,C",3,Beastars
+139,RJ Barrett,TOR,"SG,SF,PF",1,一個人兩點十分
+140,Andrew Nembhard,IND,"PG,SG",1,Koenigsegg Trevita
+141,Kyshawn George,WAS,"SG,SF,PF",3,Ginseng
+142,Egor Dëmin,BKN,"PG,SG",2,那也是沒辦法
+143,Christian Braun,DEN,"SG,SF,PF",1,Ginseng
+144,Peyton Watson,CLE,"SF,PF",2,Koenigsegg Trevita
+145,Jeremiah Fears,NOP,"PG,SG",2,Eclair
+146,Tari Eason,HOU,"SG,SF,PF",2,Koenigsegg Trevita
+147,Daniel Gafford,DAL,C,1,山姆歷險記
+148,Ayo Dosunmu,MIN,"PG,SG",2,HBT X
+149,P.J. Washington,DAL,"PF,C",1,阿Ben觀察員
+150,Isaiah Jackson,LAC,C,7,Koenigsegg Trevita
+151,Kyle Filipowski,UTA,"PF,C",1,居蛇十塊
+152,Gui Santos,GSW,"SF,PF",1,Eclair
+153,Aday Mara,OKC,C,2,Eclair
+154,Saddiq Bey,NOP,"SF,PF",1,HAHAHA
+155,Grayson Allen,CHA,"SG,SF",1,歐買嘎
+156,Nikola Vučević,ORL,C,1,Xians
+157,Cameron Johnson,DEN,"SF,PF",1,HBT X
+158,Devin Vassell,SAS,"SG,SF",1,阿Ben觀察員
+159,Joan Beringer,MIN,"PF,C",1,一個人兩點十分
+160,Keaton Wagler,LAC,SG,1,居蛇十塊
+161,Pelle Larsson,MIA,"SG,SF",1,Eclair
+162,Jerami Grant,MEM,"SF,PF",1,Ginseng
+163,Jalen Smith,CHI,"PF,C",1,HAHAHA
+164,Collin Gillespie,PHX,"PG,SG",1,歐買嘎
+165,Bobby Portis Jr.,MIA,"PF,C",1,Xians
+166,Kevin Porter Jr.,MIL,"PG,SG",1,阿Ben觀察員
+167,Tre Jones,CHI,"PG,SG",1,一個人兩點十分
+168,Mikel Brown Jr.,BKN,PG,1,Eclair
+169,Tim Hardaway Jr.,MIA,"SG,SF",1,HAHAHA
+170,Draymond Green,GSW,"PF,C",1,歐買嘎
+171,Ace Bailey,UTA,"SF,PF",1,阿Ben觀察員
+172,Paul Reed,DET,"PF,C",1,一個人兩點十分
+173,Precious Achiuwa,SAC,"PF,C",1,HAHAHA
+174,Dennis Schröder,CHA,"PG,SG",1,歐買嘎
+175,Ben Simmons,SAC,PG,1,阿Ben觀察員
+176,Klay Thompson,MIA,"SG,SF",1,歐買嘎
